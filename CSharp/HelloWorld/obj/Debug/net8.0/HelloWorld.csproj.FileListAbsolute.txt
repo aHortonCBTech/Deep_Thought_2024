@@ -1,0 +1,15 @@
+D:\Deep_Thought_2024\CSharp\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Deep_Thought_2024\CSharp\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Deep_Thought_2024\CSharp\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Deep_Thought_2024\CSharp\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Deep_Thought_2024\CSharp\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Deep_Thought_2024\CSharp\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
